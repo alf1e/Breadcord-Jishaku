@@ -1,0 +1,10 @@
+manifest_version = 1
+
+[module]
+name = "Jishaku"
+id = "breadcord_jishaku"
+description = "A debugging and testing cog for Breadcord."
+version = "1.0.0"
+license = "MIT"
+authors = ["ItsMeAlfie0", "Gorialis"]
+requirements=["jishaku"]

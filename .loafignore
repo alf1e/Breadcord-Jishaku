@@ -1,0 +1,12 @@
+# Compiled Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Git outta here!
+.git/
+.gitignore
+
+# Recursion is bad, actually
+dist
+.loafignore
